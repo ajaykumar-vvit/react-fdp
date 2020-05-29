@@ -2,6 +2,7 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 import Sample from './Sample';
+import Hooks from './Hooks';
 
 function App() {
   let names = ['Steve', 'Mark', 'Maverick'];
@@ -15,6 +16,7 @@ function App() {
         ))}
       </ul>
       <Sample></Sample>
+      <Hooks></Hooks>
     </div>
   );
 }
