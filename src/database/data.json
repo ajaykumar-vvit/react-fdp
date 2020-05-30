@@ -1,0 +1,59 @@
+{
+    "profiles": [
+        {
+            "bio": {
+                "name": "Ajay Kumar",
+                "role": "Assistant Professor",
+                "email": "ajaykumar.vvit@gmail.com",
+                "mobile": "9182799119",
+                "Address": "Vijayawada, AP, India"
+            },
+            "summary": [
+                "About experience. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+                "Project you have worked on. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+                "Knowledge exposure. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+                "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            ],
+            "skillset": [
+                {
+                    "skill": "Web technoligies",
+                    "technologies": [ "HTML", "CSS3", "Javascript", "Typescript", "Node"]
+                },
+                {
+                    "skill": "Programming Languages",
+                    "technologies": [ "C", "Python", "C#", "R", "VB"]
+                }
+            ]
+            
+        },
+        {
+            "bio": {
+                "name": "Naveen Kumar",
+                "role": "Senior Software Analyst",
+                "email": "naveen.bollepalli@gmail.com",
+                "mobile": "8123456789",
+                "Address": "Hyderabad, TS, India"
+            },
+            "summary": [
+                "About experience. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+                "Project you have worked on. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+                "Knowledge exposure. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+                "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            ],
+            "skillset": [
+                {
+                    "skill": "Web technoligies",
+                    "technologies": [ "HTML", "CSS3", "Javascript","Node", "React"]
+                },
+                {
+                    "skill": "Mobile Technologies",
+                    "technologies": [ "React-Native", "Android"]
+                },
+                {
+                    "skill": "Programming Languages",
+                    "technologies": [ "C", "Python", "Java", "Kotlin"]
+                }
+            ]
+        }
+    ]
+}
